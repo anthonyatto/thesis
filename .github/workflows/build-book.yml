@@ -7,7 +7,7 @@ on:
     branches: [main, master]
   schedule:
     # run every day at 11:05 PM Pacific
-    # - cron: '5 7 * * *'
+    - cron: '5 7 * * *'
   workflow_dispatch:
 
 name: build-book
