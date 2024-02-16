@@ -1,0 +1,22 @@
+---
+title: "The Future of Technology Bargaining in the Information Age"
+author: "Anthony Atto"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+description: > 
+  This book republishes the pdf version of Anthony Atto's MIT Masters Thesis
+
+url: 'https\://anthonyatto.com'
+github-repo: anthonyatto/thesis
+twitter-handle: anthonyatto
+cover-image: cover.png
+---
+
+# Welcome {-}
+
+<a href="https://hdl.handle.net/1721.1/147381"><img src="cover.png" width="250" height="328" align="right" alt="Cover image" /></a>
+
+Welcome! another one
